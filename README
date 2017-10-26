@@ -1,0 +1,9 @@
+Random things. Half blog, half wiki, also a gist dump.
+
+Markup syntax? Random. Might be Markdown, might be something MoinMoin-esque, might be org-mode, might as well put some HTML here.
+
+Why plain git repo? Because:
+* hosted things suck (don't even tell me about Facebook/Google+/Medium), not versatile (why spread things across LiveJournal, Wikia, and Github Gists?), and might close at any moment [closed-service]
+* self-hosted things still (mostly) suck, and I already feel old enough to not care about installing and maintaining something like MoinMoin on a public server, or writing patches against it
+
+[closed-service] https://ourincrediblejourney.tumblr.com/ (see also http://wevebeenacquired.tumblr.com/)

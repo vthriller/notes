@@ -1,0 +1,6 @@
+Documentation: why put `///` on every line? `///`-line is already a special token on its own (or so I think looking at [1]), might as well introduced something like /** … */.
+
+Also, being unable to put enum variant documentation on the same line with that variant is unfortunate.
+
+[0] https://doc.rust-lang.org/book/first-edition/documentation.html
+[1] https://github.com/rust-lang/rust/issues/22547
