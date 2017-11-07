@@ -1,1 +1,5 @@
 It sucks to not be able to put enum variant documentation on the same line with that variant: https://github.com/rust-lang/rust/issues/22547
+
+Lists should be separated by the blank line from the text that precedes it (is this how all markdown parsers act?)
+
+You can use `use EnumType::*` within a function to avoid qualifying lots of enum variants in a match.
